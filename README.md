@@ -1,7 +1,8 @@
 2048-react
 ==========
+https://vercel.com/hung-rushb/2048-hung
 
-This is a clone of [2048](http://gabrielecirulli.github.io/2048/) implemented using React. It's running live [here](http://ivanvergiliev.github.io/2048-react/).
+<!-- This is a clone of [2048](http://gabrielecirulli.github.io/2048/) implemented using React. It's running live [here](http://ivanvergiliev.github.io/2048-react/).
 
 The game logic is implemented in [board.js](https://github.com/IvanVergiliev/2048-react/blob/master/src/board.js). It was much cleaner at first, but in order to get movement animations, a lot of state needs to be saved for each of the tiles on the board.
 
@@ -34,4 +35,4 @@ If you change a file which needs to be rebuilt (that is, any file inside the ```
     npm install -g gulp
     npm install
     gulp build   # to rebuild the files once, or
-    gulp   # to watch the files for changes and rebuild continously.
+    gulp   # to watch the files for changes and rebuild continously. -->
